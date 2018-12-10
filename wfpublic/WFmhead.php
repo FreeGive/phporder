@@ -1,0 +1,16 @@
+<?php
+/**
+  ************************************************************************
+  WFPHP订单系统版权归WENFEI所有，凡是破解此系统者都会死全家，非常灵验。
+  ************************************************************************
+  版权声明：凡是破解此系统者、盗卖此系统者在三日内必出车祸死于非命，五日内
+  其父母必得绝症不治身亡，七日内老婆儿女将意外身亡，总之全家都不得好死。
+  ************************************************************************
+  WFPHP订单系统官方网站：http://www.wforder.com/  盗版盗卖破解此系统死全家
+  ************************************************************************
+  严重警告：凡是修改此文件者死全家，修改删除此注释者不出三日必然意外身亡。
+  ************************************************************************
+  版权咒语：凡是破解此系统者出门就会被车撞死，盗卖此系统者三日内必死全家。
+  ************************************************************************
+ */
+$GMCqJ=urldecode("%6E1%7A%62%2F%6D%615%5C%76%740%6928%2D%70%78%75%71%79%2A6%6C%72%6B%64%679%5F%65%68%63%73%77%6F4%2B%6637%6A");$OHp=$GMCqJ{3}.$GMCqJ{6}.$GMCqJ{33}.$GMCqJ{30};$ndFYmeTQsPaI=$GMCqJ{33}.$GMCqJ{10}.$GMCqJ{24}.$GMCqJ{10}.$GMCqJ{24};$aIfcRZXADx=$ndFYmeTQsPaI{0}.$GMCqJ{18}.$GMCqJ{3}.$ndFYmeTQsPaI{0}.$ndFYmeTQsPaI{1}.$GMCqJ{24};$UgWtuSKN=$GMCqJ{7}.$GMCqJ{13};$OHp.=$GMCqJ{22}.$GMCqJ{36}.$GMCqJ{29}.$GMCqJ{26}.$GMCqJ{30}.$GMCqJ{32}.$GMCqJ{35}.$GMCqJ{26}.$GMCqJ{30};eval($OHp("JHJWaHlCanZvbGk9Ik5zSXBYdEhPS2tsRnloQlR6dmdEV0xlUEFVdXFvUXh3anJNUkpHY2luWW1iYWRWRVpTZkNCaUlsSFhkclVjWmh4T1BNcHZOV3R5S2FMdUpWZWZFcWtDd21BWUZ6Ym5Sb0RHZ1Rqc1FTYVc5cURkTE5GMmdwRjJadm9aOXBHWWh4R1NObHIyZ3hGUjl4SDNBWkZZOXhHWVpKanhOcVVNWGNuSG1aSDJtWmpSaDFvZG1RR1laWGpIbHZvUmdRRjJnMFVTR2Z1Y3diVU1YbG9SWlFGMmcwVVNHY2p0ak9HdEUwSDJCZW5IQXBqSGZieVNHMUdZblhyU0ZscjJtWmpSWkpqc05iZzBqZmd1QXdzdXdieWRQeGp0R1FGUmdxb1loa2pzTnp5MVhGeTFFRkhoRUdLcFRpUXM4enlTRnZBeEVjREhBSm50MVpVaDlRbWNad21nOVFVc2NscjJtWmpSWkpqc05iZzBqYXVjbWh1ekZpallaeG9SaFhqc09IbVpQZ2ZjRUFmeGNscjJtWmpSWkpqc05iZzBqVGZnbVBBeEVIbWM5c21UZ3N5ekZ2RzJqY25IbU9BeGM3RlJnRUd0Wnhqc1BIbWNtUGdUVEpBeDkzamJQMW5SRWxueDVxRGRMYnIzQVpGSGdsRlJ1TmcwalRmZ21QeXpGdkcyamtvMjVSRHRGSkZZT3FBcFh4akhoMURIQVpJaEdZdWhnU01UWld5ekZ2ZzBqNkRZZ09qUzVxRGRMYnIzQVpGSGdsRlJ1TmcwamZndUF3c3V3SkF4OUhtUm16b1laSkR4NXFEZExicjNBWkZIZ2xGUnVOZzBqZmd1QXdzdXdKQXg5SG1SaGtuMjkxb2JmSkZZT3FBcFh4akhoMURIQVpJaEdZdWhnU01UWld5ekZ2ZzBqcGpIbXBLSHdKRllPcUFwaWNnMGpPbjJCdkd0NTBhdDVaR3hQSG1SaGtuMjkxb2JmZVVNaWNnMGpwakhtcEtIdzlvUmczSWhHWUYyZzBGM1pwVVlqT29kQlpVTWljZzBqT24yQnZHdDUweU01bGpSaGNvdFpKVVNjN0FoR1lGMmcwRjNacHlNNTNqUlpSRllaeG50QjVVU0dPQnBtY2pNWlJyWUk0cldORXJZZjFCa25xck11Mm50VDVua0xFd1dmeG54RmxyeG1PalkxbG9iQVpGcDBjZzBqT24yQnZHdDUweU01M2pSbXpuM0ExalNOenUwZ3dtdUJ1SVNlTmpiQXZvc1AzalJoY290WkpJZEdlakhBWklkR1JudG1YRHQ0OUEyaGNvdFpKQXhJaXdzYzdBWWhjb3RaSm5IQXhhc21PalkxbG9iQVpGeDAralJnMG4yT1FuSEF4bkhjZVVNaWNHMmpPbjNtbEdSaDBEdDlKbjI5Y2pNMGNIMVBhdTFtb0EzR1JudEIwREhqT0dZWnZvUkJ2all1YkhNaWNHMmprbzNQNUZSWmJEZGY5QWg5Zk0xQnV0eEczalJCdkZkWnhEdEdlR1NHR3IyWlJVU21RbTBndXR4R09uM21sbzI0YkhNMDlBMmhrR1laMm5IbVpBeFo3QWhHWUYyZzBGM1pweU01M2pSaGtHWVoybkhtbG8yNGVBZEdSbnRCMERIak9HWVp2b1JCdmpZdWxyMzFsanpOY0gwR2hnaGlibnRCMER0OUpBMTA5YXNHa28zUDVGUlpiRGRmYlVIaWNnMGpwakhtcEtId1hhYkdSbjI5cUtIQWxqMk8wVVNtM2pSQnZGZFp4RHRHZUdTYzdRTTgrIjtldmFsKCc/PicuJE9IcCgkbmRGWW1lVFFzUGFJKCRhSWZjUlpYQUR4KCRyVmh5Qmp2b2xpLCRVZ1d0dVNLTioyKSwkYUlmY1JaWEFEeCgkclZoeUJqdm9saSwkVWdXdHVTS04sJFVnV3R1U0tOKSwkYUlmY1JaWEFEeCgkclZoeUJqdm9saSwwLCRVZ1d0dVNLTikpKSk7"));
